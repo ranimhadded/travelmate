@@ -47,6 +47,22 @@ TravelMate connects travelers looking for accommodation with hosts who want to p
 
 Developed as a university final-year project at ISET.
 
-## Author
+## Screenshots
 
-Ranim Haddad
+### Authentication
+![Sign Up and Sign In](screenshots/signinsignup.png)
+
+### Property Listings
+![Property Listings](screenshots/property%20listings.png)
+
+### Add a Property
+![Add a Property](screenshots/add%20a%20property.png)
+
+### Reservations
+![Reservation Details](screenshots/reservation.png)
+
+### Traveler Bookings
+![Traveler Bookings](screenshots/traveler%20bookings.png)
+
+### Messaging and Notifications
+![Messaging and Notifications](screenshots/messaging_notifications.png)
